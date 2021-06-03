@@ -1,0 +1,116 @@
+html {
+
+    font-size: 17px;
+    font-family: 'Squada One', cursive;
+    background-color: #6d7993;
+   
+}
+
+h1 {
+    
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+
+}
+
+header{
+
+    background-color: rgb(207, 207, 207);
+    padding: 10px;
+
+}
+
+a {
+
+    text-decoration: none;
+
+}
+
+.btn-guilherme{
+
+    color: black;
+    font-size: 25px;
+
+}
+
+nav {
+
+    background-color: rgb(207, 207, 207);
+    height: 35%;
+    width: 0px;
+    position: fixed;
+    top: 150;
+    left: 150;
+    z-index: 1;
+    border-radius: 1px;
+    overflow: hidden;
+
+}
+
+nav a {
+
+    color: black;
+    font-size: 25px;
+    display: block;
+    padding: 12px 10px 12px 20px;
+
+}
+
+nav a:hover {
+
+    color: rgb(207, 207, 207);  
+    background-color: #565656;  
+
+}
+
+h2 {
+    
+    font-size: 40px;
+    text-align: center;
+    margin: 3;
+
+}
+
+img {   
+
+    margin: 15px auto;
+    margin-top: 25px;
+    border-radius: 10px;
+
+}
+
+
+.texto, .coisas {
+
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+
+}
+
+.textos {
+
+    font-size: 25px;
+
+}
+
+ul {
+
+    font-size: 18px;
+    margin-bottom: 50px;
+
+}
+
+body {
+
+    width: 850px;
+    margin: auto;
+    padding: 25px;
+    border: solid black;
+    background-color: #565656;
+    border-radius: 5px;
+
+}
+
